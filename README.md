@@ -1,6 +1,3 @@
-<title>M.R.I.M.</title>
-
-		
 <h1 text-align="center"> Modelado de Resposta por Indicação da Máquina </h1>
 <img src="https://www.alura.com.br/artigos/assets/como-conectar-o-google-colaboratory-ao-github/logo-do-google-colaboratory-e-do-github.png">
 				
